@@ -22,7 +22,7 @@ repositories {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
-    compile "top.pengcheng789.java:boring-framework:1.0.1"
+    compile "top.pengcheng789.java:boring-framework:1.1.0"
 }
 
 compileKotlin {
